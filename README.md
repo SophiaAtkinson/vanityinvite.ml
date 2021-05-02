@@ -1,2 +1,3 @@
 # vanityinvite.ml
-Get your discord vanity invite!
+## Do you want a discord vanity invite?
+Well [Email](mailto:sophiaatkinson.com) us
